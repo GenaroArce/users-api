@@ -1,0 +1,14 @@
+{
+    "messages": {
+        "removedUser": "User Removed",
+        "addUser": "User added",
+        "searchUser": "User Found"
+    },
+    "errors": {
+        "validEmail": "Invalid Email",
+        "userExist": "User not found",
+        "missingFields": "Missing required fields",
+        "emailExist": "A user with that email already exists.",
+        "error": "Bad request"
+    }
+}
